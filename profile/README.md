@@ -3,6 +3,8 @@
 
 ALAZ is a high-performance DNS firewall that protects networks by intelligently filtering malicious domains and categorizing web traffic. It combines real-time DNS resolution with machine learning-powered threat detection to provide both security and content filtering capabilities.
 
+### [Visit our website →](https://alaz-ai.github.io/)
+
 ## Core Design Principles
 
 - **Performance First**: Sub-millisecond DNS response times through intelligent caching
